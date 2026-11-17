@@ -28,4 +28,4 @@ KS=release.keystore KS_PASS=yourpass KS_ALIAS=youralias ./build.sh
 ```
 
 ---
-Tameem Khan · [Portfolio](https://tameemkhan.netlify.app) · ktameem2004@gmail.com
+Tameem Khan · [Portfolio](https://khantameem29.github.io) · ktameem2004@gmail.com
